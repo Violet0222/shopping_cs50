@@ -93,7 +93,6 @@ def load_data(filename):
     return (evidence, labels)
     
 
-
 def train_model(evidence, labels):
     """
     Given a list of evidence lists and a list of labels, return a
